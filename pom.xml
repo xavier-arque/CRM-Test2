@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.itnove.trainings.webdriver</groupId>
-    <artifactId>StartUsingWebDriver</artifactId>
-    <version>17.09.12</version>
+    <artifactId>crmWebDriver</artifactId>
+    <version>17.11.17s</version>
     <packaging>jar</packaging>
-    <name>JunitMaven</name>
+    <name>crmWebDriver</name>
     <url>http://maven.apache.org</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
